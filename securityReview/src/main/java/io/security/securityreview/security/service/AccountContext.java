@@ -1,4 +1,4 @@
-package io.security.securityreview.service;
+package io.security.securityreview.security.service;
 
 import io.security.securityreview.domain.Account;
 import org.springframework.security.core.GrantedAuthority;
